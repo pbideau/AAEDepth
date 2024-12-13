@@ -1,0 +1,14 @@
+*.png
+*.prof
+*.json
+*.txt
+**/__pycache__/
+.env37/*
+# *.npz
+venv
+env37
+*.txt
+EVIMO2/
+.DS_Store
+.idea/
+relative_output/
