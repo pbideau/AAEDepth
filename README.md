@@ -9,6 +9,10 @@ Authors: Nan Cai, Pia Bideau
 </p>
 
 
+<p align="center">
+  <img height="450" src="/imgs/result_EVIMO2sfm.gif">
+</p>
+
 
 https://github.com/user-attachments/assets/94ed7adc-3f6d-47d6-a469-d6f028617015
 
