@@ -1,6 +1,7 @@
 # Active Event Alignment for Monocular Distance Estimation
 
 This is the implementation of the paper "Active Event Alignment for Monocular Distance Estimation". The code takes events as input. 
+
 link to the paper: [https://openaccess.thecvf.com/content/WACV2025/html/Cai_Active_Event_Alignment_for_Monocular_Distance_Estimation_WACV_2025_paper.html](https://openaccess.thecvf.com/content/WACV2025/html/Cai_Active_Event_Alignment_for_Monocular_Distance_Estimation_WACV_2025_paper.html)
 
 Authors: Nan Cai, Pia Bideau
@@ -121,6 +122,7 @@ Example structure:
 
 This code leverages the following repository for impelementation of ST-PPP algorithm:
 - [ST-PPP](https://github.com/pbideau/Event-ST-PPP)
+
 
 
 
